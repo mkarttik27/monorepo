@@ -5,3 +5,4 @@ Hello fail
 Hi fail
 Hello fail
 Hi pass....
+Hello from feature 2
